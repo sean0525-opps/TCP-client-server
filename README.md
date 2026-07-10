@@ -1,5 +1,5 @@
 # TCP-client-server
-This is a TCP client server network built in python
+The code for the server will get the input from the client and adjust the stock levels accordingly. If there is not enough stock the server will take whatever stock is available and send it to the customer and the rest of the order will be put in the backlog once a restock takes place the server will look at the backlog and take stock out for that order. The code will also calculate the carbon footprint from the order received and will print out environmentally friendly options for those materials. The server also works out the cost of the order and depending on the currency given it can also work out those prices depending on the exchange rates at the time. 
 
 <img width="940" height="107" alt="image" src="https://github.com/user-attachments/assets/78da3137-a0e2-4dcb-96af-6d41d15fed0c" />
 
@@ -18,5 +18,5 @@ Figure 10.12 The output to show stock levels and the backlog
 Figure 10.13 The output when an invalid input is inputted.
 
 
-The code for the server will get the input from the client and adjust the stock levels accordingly. If there is not enough stock the server will take whatever stock is available and send it to the customer and the rest of the order will be put in the backlog once a restock takes place the server will look at the backlog and take stock out for that order. The code will also calculate the carbon footprint from the order received and will print out environmentally friendly options for those materials. The server also works out the cost of the order and depending on the currency given it can also work out those prices depending on the exchange rates at the time. 
+
 
